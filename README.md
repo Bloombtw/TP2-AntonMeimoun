@@ -37,3 +37,10 @@ Le depot embarque une chaine d'agents OpenCode (`.opencode/`) : un agent princip
 
 L'equipe qui a monte ce service est partie. Le service tourne en production depuis
 huit mois. La chaine d'agents a ete installee en juin et personne ne l'a revue depuis.
+
+## TP2 — le repo malade
+
+Ce dépôt a été audité et réparé dans le cadre du TP2. Voir :
+
+- [`DIAGNOSTIC.md`](DIAGNOSTIC.md) — chaque problème : symptôme, cause, brique du cours, et ce qui a été laissé volontairement.
+- [`captures/`](captures/) — les preuves (captures PNG des commandes réellement lancées).
