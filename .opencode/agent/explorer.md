@@ -12,8 +12,10 @@ permission:
   list: allow
   lsp: allow
   webfetch: allow
-  edit: allow
   task: deny
+  edit:
+    "*": deny
+    ".opencode/plans/*.md": allow
   bash:
     "*": deny
     "git log*": allow
